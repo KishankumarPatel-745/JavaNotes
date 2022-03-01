@@ -25,7 +25,7 @@ public class Java05 {
         char ch=65536; CTE:- possible loss of precision found int required char.
 
 
-        we can represent char literal in unicode representation which is nothing but '\uXXXX'
+        we can represent char literal in unicode representation which is nothing but '\uFFFF'
         4 digit Hexadecimal Number.
         char ch='\u0061'
         //unicode representation '\u0061'
