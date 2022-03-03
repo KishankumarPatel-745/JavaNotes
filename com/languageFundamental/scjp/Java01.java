@@ -1,5 +1,6 @@
 //Hi Durga Sir
 //I love the way you teach 
+package com.languageFundamental.scjp;
 class java01{
 	public static void main(String [] args){
 		int Integer=9999;

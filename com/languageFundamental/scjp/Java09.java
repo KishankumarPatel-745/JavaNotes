@@ -1,3 +1,5 @@
+package com.languageFundamental.scjp;
+
 public class Java09 {
     public static void main(String[] args) {
         /*

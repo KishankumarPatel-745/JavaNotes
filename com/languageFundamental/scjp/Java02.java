@@ -1,3 +1,4 @@
+package com.languageFundamental.scjp;
 public class Java02 {
     public static void main(String[] args) {
         //DataType.. :- without type you cannot declare a single variable in Java..

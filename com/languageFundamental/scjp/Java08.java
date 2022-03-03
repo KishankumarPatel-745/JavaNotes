@@ -1,3 +1,4 @@
+package com.languageFundamental.scjp;
 public class Java08 {
     public static void main(String[] args) {
         

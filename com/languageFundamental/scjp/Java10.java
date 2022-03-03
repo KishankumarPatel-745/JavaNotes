@@ -1,3 +1,5 @@
+
+package com.languageFundamental.scjp;
 public class Java10 {
     int x=10;//Instance Variable
     public void printKare() {
