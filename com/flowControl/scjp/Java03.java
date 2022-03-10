@@ -188,5 +188,6 @@ public class Java03 {
 
 
         */
+		System.out.println("Hello class execution checking");
     }
 }
