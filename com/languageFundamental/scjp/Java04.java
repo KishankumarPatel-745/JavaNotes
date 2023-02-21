@@ -59,14 +59,14 @@ public class Java04 {
 
 
 
-        we can integral literal directly to floating point variable and that integral literal can be specified either in decimal,octal and hexadecimal form.
+        we can assign integral literal directly to floating point variable and that integral literal can be specified either in decimal,octal and hexadecimal form.
 
         eg.
-        double d=0786; CTE:integer number too large
+        double d=0786; working
 
-        double d =0xFace;
+        double d =0xFace; working 
 
-        double d=0xFace.0: CTE error..
+        double d=0xFace.0: working 
 
         
         we cannot assign floating point literal to integral types.
