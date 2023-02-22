@@ -59,14 +59,14 @@ public class Java04 {
 
 
 
-        we can assign integral literal directly to floating point variable and that integral literal can be specified either in decimal,octal and hexadecimal form.
+        we can assign integral literal directly to floating point variable and that integral literal can be specified either in decimal, But not in octal or hexadecimal form.
 
         eg.
-        double d=0786; working
+        double d=0786; it is a decimal value not a octal.
 
-        double d =0xFace; working 
+        double d =0xFace; working because 0xFACE is a integral literal. 
 
-        double d=0xFace.0: working 
+        double d=0xFace.0: malformed floating point literal 
 
         
         we cannot assign floating point literal to integral types.
